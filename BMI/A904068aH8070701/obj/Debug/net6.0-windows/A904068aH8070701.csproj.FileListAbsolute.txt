@@ -1,0 +1,17 @@
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\bin\Debug\net6.0-windows\A904068aH8070701.exe
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\bin\Debug\net6.0-windows\A904068aH8070701.deps.json
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\bin\Debug\net6.0-windows\A904068aH8070701.runtimeconfig.json
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\bin\Debug\net6.0-windows\A904068aH8070701.dll
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\bin\Debug\net6.0-windows\A904068aH8070701.pdb
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.A904068aH8070701.resources
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.AssemblyInfo.cs
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.dll
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\refint\A904068aH8070701.dll
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.pdb
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\A904068aH8070701.genruntimeconfig.cache
+C:\Users\Student\Downloads\A904068aH8070701\A904068aH8070701\obj\Debug\net6.0-windows\ref\A904068aH8070701.dll
