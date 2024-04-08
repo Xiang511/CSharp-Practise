@@ -1,0 +1,17 @@
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.A904068AC9110703.resources
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.AssemblyInfo.cs
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\bin\Debug\net6.0-windows\A904068AC9110703.exe
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\bin\Debug\net6.0-windows\A904068AC9110703.deps.json
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\bin\Debug\net6.0-windows\A904068AC9110703.runtimeconfig.json
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\bin\Debug\net6.0-windows\A904068AC9110703.dll
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\bin\Debug\net6.0-windows\A904068AC9110703.pdb
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.dll
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\refint\A904068AC9110703.dll
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.pdb
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\A904068AC9110703.genruntimeconfig.cache
+C:\Users\Student\Downloads\A904068AC9110703\A904068AC9110703\obj\Debug\net6.0-windows\ref\A904068AC9110703.dll
