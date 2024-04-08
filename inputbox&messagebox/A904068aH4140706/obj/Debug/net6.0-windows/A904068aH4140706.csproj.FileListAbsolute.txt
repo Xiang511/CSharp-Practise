@@ -1,0 +1,17 @@
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\bin\Debug\net6.0-windows\A904068aH4140706.exe
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\bin\Debug\net6.0-windows\A904068aH4140706.deps.json
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\bin\Debug\net6.0-windows\A904068aH4140706.runtimeconfig.json
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\bin\Debug\net6.0-windows\A904068aH4140706.dll
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\bin\Debug\net6.0-windows\A904068aH4140706.pdb
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.A904068aH4140706.resources
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.AssemblyInfo.cs
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.dll
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\refint\A904068aH4140706.dll
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.pdb
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\A904068aH4140706.genruntimeconfig.cache
+C:\Users\USER\OneDrive\桌面\A904068aH4140706\A904068aH4140706\obj\Debug\net6.0-windows\ref\A904068aH4140706.dll
